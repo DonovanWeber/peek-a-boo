@@ -11,3 +11,33 @@
   text-decoration: underline;
 }
 
+.light-mode {
+  background: white;
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background: black;
+  background-color: black;
+  color: white;
+}
+
+#darkBackground {
+  background: black;
+  background-color: black;
+  color: white;
+  border-color: blue;
+}
+
+#lightBackground {
+  background: white;
+  background-color: white;
+  color: black;
+  border-color: black;
+}
+body {
+  background: black;
+  background-color: black;
+  color: white;
+}
